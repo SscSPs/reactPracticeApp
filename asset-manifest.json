@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.701be754.chunk.css",
-  "main.js": "/static/js/main.1e601253.chunk.js",
-  "main.js.map": "/static/js/main.1e601253.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.0e3f6a1a.chunk.js": "/static/js/2.0e3f6a1a.chunk.js",
-  "static/js/2.0e3f6a1a.chunk.js.map": "/static/js/2.0e3f6a1a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.b9a73e0e3bed9cfc1fc9aaa2e86d450b.js": "/precache-manifest.b9a73e0e3bed9cfc1fc9aaa2e86d450b.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.701be754.chunk.css.map": "/static/css/main.701be754.chunk.css.map"
+  "main.css": "/reactPracticeApp/static/css/main.701be754.chunk.css",
+  "main.js": "/reactPracticeApp/static/js/main.1e601253.chunk.js",
+  "main.js.map": "/reactPracticeApp/static/js/main.1e601253.chunk.js.map",
+  "runtime~main.js": "/reactPracticeApp/static/js/runtime~main.e2a2380c.js",
+  "runtime~main.js.map": "/reactPracticeApp/static/js/runtime~main.e2a2380c.js.map",
+  "static/js/2.0e3f6a1a.chunk.js": "/reactPracticeApp/static/js/2.0e3f6a1a.chunk.js",
+  "static/js/2.0e3f6a1a.chunk.js.map": "/reactPracticeApp/static/js/2.0e3f6a1a.chunk.js.map",
+  "index.html": "/reactPracticeApp/index.html",
+  "precache-manifest.d69bf83d46a67b01a94df3a2d0a65b97.js": "/reactPracticeApp/precache-manifest.d69bf83d46a67b01a94df3a2d0a65b97.js",
+  "service-worker.js": "/reactPracticeApp/service-worker.js",
+  "static/css/main.701be754.chunk.css.map": "/reactPracticeApp/static/css/main.701be754.chunk.css.map"
 }
