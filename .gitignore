@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#I dont think we need this, this can stay at local
+package-lock.json
